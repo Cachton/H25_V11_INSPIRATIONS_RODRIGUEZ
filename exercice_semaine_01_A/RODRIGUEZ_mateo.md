@@ -11,5 +11,5 @@ Pour mon projet final de web, j'ai crée un scénario et assemblé un siteweb-je
 
 Mon cours de photo m'as appris à manier une caméra et ses options.
 
-![photo](img/burger_rodriguez_fontaine_mateo (5 of 12).jpg)
-![photo](img/burger_rodriguez_fontaine_mateo (6 of 12).jpg)
+![photo](img/burger_rodriguez_fontaine_mateo(5of12).jpg)
+![photo](img/burger_rodriguez_fontaine_mateo(6of12).jpg)
