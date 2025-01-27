@@ -6,5 +6,6 @@ J'ai une vrai passion pour assister à des concerts et en remplir un petit site 
 Pour mon projet final de web, j'ai crée un scénario et assemblé un siteweb-jeu à choix multiples en html et css.
 
 ![photo](img/web1(1).jpg)
+![photo](img/web1(2).jpg)
 
 
