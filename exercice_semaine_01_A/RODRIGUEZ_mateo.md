@@ -5,6 +5,6 @@ Bonjour je suis fasciné des arts visuels virtuels depuis un concert auquel j'ai
 J'ai une vrai passion pour assister à des concerts et en remplir un petit site que j'ai créé lors de mes cours  de web.
 Pour mon projet final de web, j'ai crée un scénario et assemblé un siteweb-jeu à choix multiples en html et css.
 
-![photo](img/web (1))
+![photo](img/web (1).jpg)
 
 
