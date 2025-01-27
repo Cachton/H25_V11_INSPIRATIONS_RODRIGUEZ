@@ -7,9 +7,15 @@ Pour mon projet final de web, j'ai crée un scénario et assemblé un siteweb-je
 ![photo](img/web1(1).png)
 ![photo](img/web1(2).png)
 
-### Aprenssages Photo
+### Aprentissages Photo
 
 Mon cours de photo m'as appris à manier une caméra et ses options.
 
 ![photo](img/burger_rodriguez_fontaine_mateo(5of12).jpg)
 ![photo](img/burger_rodriguez_fontaine_mateo(6of12).jpg)
+
+### Aprentissages Audio
+
+Mon cours d'audio m'as appris à utiliser des microphones de haute qualitées et des machines d'enregistrement. Un des projets était de faire un court podcast.
+
+![audio](
