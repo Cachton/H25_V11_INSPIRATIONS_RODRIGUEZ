@@ -8,3 +8,7 @@ Un dispositif souvent oublié mais définitivement marquant à tous s'intitule "
 Cette installation repose sur l'interactivitée puisqu'elle nous informe sur les manières des autres personnes qui l'ont visité.
 
 ![photo](img/les_codes02.jpg)
+
+Ce dispositif est plutôt simple en théorie mais le contexte est important. Chaque poste doit cacher un ordinateur qui opère le programme informatique qui permet à l'écran tactile de fonctionner et intéragir avec les visiteurs. Cette table semble acceuillante parce qu'elle est bien illuminée; une lumière au plafond pointe directement la table et la rends très visible. La base de la table est aussi fait d'un plastique qui contient une lumière blanche. La salle d'exposition est très sombre et ces lumières aident à comprendre qu'est-ce qui est supposé attirer l'attention des visiteurs.
+
+![photo](img/les_codes02.jpg)
