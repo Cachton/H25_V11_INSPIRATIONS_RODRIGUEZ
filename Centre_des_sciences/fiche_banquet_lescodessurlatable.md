@@ -9,7 +9,8 @@ Cette installation repose sur l'interactivitée puisqu'elle nous informe sur les
 
 ![photo](img/les_codes02.jpg)
 
-Ce dispositif est plutôt simple en théorie mais le contexte est important. Chaque poste doit cacher un ordinateur qui opère le programme informatique qui permet à l'écran tactile de fonctionner et intéragir avec les visiteurs. Cette table semble acceuillante parce qu'elle est bien illuminée; une lumière au plafond pointe directement la table et la rends très visible. La base de la table est aussi fait d'un plastique qui contient une lumière blanche. La salle d'exposition est très sombre et ces lumières aident à comprendre qu'est-ce qui est supposé attirer l'attention des visiteurs. Il me semblait aussi intéresssant de mentionner l'absensce total de fil de n'importe quel type. Certaines prises électriques étaient un peu partout au sol probablement pour alimenter ces dispositifs. L'immersion dans le sujet est très forte quand tout les dispositifs cachent leur fonctionnement. 
+Ce dispositif est plutôt simple en théorie mais le contexte est important. Chaque poste doit cacher un ordinateur qui opère le programme informatique qui permet à l'écran tactile de fonctionner et intéragir avec les visiteurs. Cette table semble acceuillante parce qu'elle est bien illuminée; une lumière au plafond pointe directement la table et la rends très visible. La base de la table est aussi fait d'un plastique qui contient une lumière blanche. La salle d'exposition est très sombre et ces lumières aident à comprendre qu'est-ce qui est supposé attirer l'attention des visiteurs. 
+Il me semblait aussi intéresssant de mentionner l'absensce total de fil de n'importe quel type. Certaines prises électriques étaient un peu partout au sol probablement pour alimenter ces dispositifs. L'immersion dans le sujet est très forte quand tout les dispositifs cachent leur fonctionnement. 
 
 ![photo](img/les_codes01.jpg)
 
