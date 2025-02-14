@@ -15,4 +15,4 @@ Il me semblait aussi intéresssant de mentionner l'absensce total de fil de n'im
 
 ![photo](img/les_codes01.jpg)
 
-Personellement, j'ai trouvé que cette exposition était produite probablement plutôt pour les enfants et les familles.
+Personellement, j'ai trouvé que cette exposition était produite probablement plutôt pour les enfants et les familles. Elle n'était pas pour autant mal réalisée.
