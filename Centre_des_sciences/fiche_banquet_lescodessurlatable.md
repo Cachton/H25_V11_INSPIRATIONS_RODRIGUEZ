@@ -15,4 +15,6 @@ Il me semblait aussi intéresssant de mentionner l'absensce total de fil de n'im
 
 ![photo](img/les_codes01.jpg)
 
-Personellement, j'ai trouvé que cette exposition était produite probablement plutôt pour les enfants et les familles. Elle n'était pas pour autant mal réalisée.
+Personellement, j'ai trouvé que cette exposition était produite probablement plutôt pour les enfants et les familles. Elle n'était pas pour autant mal réalisée, l'ambiance autour de la table était chaleureuse et agréable. Je pense que le seul défaut qui m'as un peu embêté est le manque total de sons venant du dispositif. Je pense qu'un simple petit son discret pour indiquer qu'un choix à été selectionné. 
+
+Si vous voulez en apprendre plus sur cet expérience du Centre des Sciences de Montréal, je vous invite à consulter leur site internet.
