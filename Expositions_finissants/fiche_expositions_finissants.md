@@ -15,4 +15,8 @@
 
 ------------
 
+Ces expositions présentées dans divers locaux du collège montmorency sont créés en guise de projet final de leur formation en technique d'intégration multimedia.
+
+------------
+
 <h2>Prismatica</h2>
