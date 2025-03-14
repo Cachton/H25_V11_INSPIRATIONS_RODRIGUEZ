@@ -44,8 +44,10 @@ C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexa
 
 <h2>Luminatura</h2>
 Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer et Prethiah Rajaratnam. Ce projet est une collection de lumières, projections et un peu de son aussi. Trois plaques tactiles sont devant vous et elles sont éclrairées assez pour les voir dans la grande salle plongée dans l'obscuritée. Sur le plancher en face, une grande projection de lumières abstraites se promène et change de couleur au toucher des plaques. Au mur, une grande lumière similaire à celle au sol change également de couleur grâce aux plaques tactiles. Ces lumières se promènes et bougent sur les surfaces sur lesquelles elles sont projetées. Au plafond, des lustres pendent et suivent la couleur de la lumière des murs. Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
-<h2>Fuga</h2>
 
+<h2>Fuga</h2>
+Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer. Cette installation est la seule du lot qui utilise des écrans. La disposition des éléments est très originale. Sur une table étroite mais haute d'environs un mètre et quart, des petits boutons et des faders nous permettent de controller la pousse d'un arbre qui est le sujet de cette installation. Trois écrans sont attachés à un support au plafond et affichent
+le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce même support et jouent de l'audio qui varie selon l'intéraction avec les controles. 
 <h2>Etheria</h2>
 
 <h2>Prismatica</h2>
