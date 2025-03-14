@@ -1,17 +1,29 @@
-<h1> Expositions intéractives finissants TIM </h1>
+<h1> Expositions intéractives finissants TIM dans le cadre de l'exposition Résonnance</h1>
 
 <h3>Projets présentés ;</h3>
 1 - Prismatica
+<br/>
+Une expérience audio visuelle qui joue sur les couleurs pour créer des sons et des ambiances.
 <br/><br/>
 2 - C0NDU8
+<br/>
+Un dispositif qui nous fait faire du sport virtuel à l'aide d'un vélo stationnaire.
 <br/><br/>
 3 - Luminature
+<br/>
+Un dispositif se basant sur des platformes tactiles pour afficher et changer des couleurs.
 <br/><br/>
 4 - Etheria
+<br/>
+Un jeu intéractif projeté sur une table.
 <br/><br/>
 5 - Internature
+<br/>
+Une expérience audiovisuelle qui utilise une sphère pour controler des lumières et des sons projetées sur un tunel tout autour de vous.
 <br/><br/>
 6 - Arcadia
+<br/>
+Un jeu d'arcade old school.
 
 ------------
 
