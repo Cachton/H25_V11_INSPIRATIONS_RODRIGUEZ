@@ -6,10 +6,6 @@
 <br/>
 Une expérience audiovisuelle qui utilise une sphère pour controler des lumières et des sons projetées sur un tunel tout autour de vous.
 <br/><br/>
-2 - Prismatica
-<br/>
-Une expérience audio visuelle qui joue sur les couleurs pour créer des sons et des ambiances.
-<br/><br/>
 3 - C0NDU8
 <br/>
 Un dispositif qui nous fait faire du sport virtuel à l'aide d'un vélo stationnaire.
@@ -22,7 +18,10 @@ Un dispositif se basant sur des platformes tactiles pour afficher et changer des
 <br/>
 Un jeu intéractif projeté sur une table.
 <br/><br/>
-
+2 - Prismatica
+<br/>
+Une expérience audio visuelle qui joue sur les couleurs pour créer des sons et des ambiances.
+<br/><br/>
 6 - Arcadia
 <br/>
 Un jeu d'arcade old school joué avec une manette old school.
