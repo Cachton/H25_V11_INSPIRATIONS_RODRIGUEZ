@@ -47,7 +47,7 @@ Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand,
 
 <h2>Fuga</h2>
 Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer. Cette installation est la seule du lot qui utilise des écrans. La disposition des éléments est très originale. Sur une table étroite mais haute d'environs un mètre et quart, des petits boutons et des faders nous permettent de controller la pousse d'un arbre qui est le sujet de cette installation. Trois écrans sont attachés à un support au plafond et affichent
-le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce même support et jouent de l'audio qui varie selon l'intéraction avec les controles. 
+le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce même support et jouent de l'audio qui varie selon l'intéraction avec les controles. La disposition des éléments est très bien pensée pour ce projet, ils ont même pensé à orner le tout de petits feuillages et plantes en plastique. Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 <h2>Etheria</h2>
 
 <h2>Prismatica</h2>
