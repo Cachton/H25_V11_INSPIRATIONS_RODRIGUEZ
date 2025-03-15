@@ -22,13 +22,13 @@ Fuga est un dispositif à boutons et faders qui influence la croissance d'un arb
 <br/>
 Un jeu intéractif projeté sur une table.
 <br/><br/>
-6 - Prismatica
-<br/>
-Une expérience audio visuelle qui joue sur les couleurs pour créer des sons et des ambiances.
-<br/><br/>
-7 - Arcadia
+6 - Arcadia
 <br/>
 Un jeu d'arcade old school joué avec une manette old school.
+<br/><br/>
+7 - Prismatica
+<br/>
+Une expérience audio visuelle qui joue sur les couleurs pour créer des sons et des ambiances.
 
 ------------
 
@@ -52,7 +52,8 @@ le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce
 <h2>Etheria</h2>
 Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, Joshua Gonzalez-Barrera et Pierre-Luc Proulx. C'est un jeu video projeté sur une table en guise d'écran. Pour y jouer, vous devez utiliser des petits objets munis de codes pour controler un des trois personnages. Chaque personnage à une classe et se joue d'une manière différente. Des ennemis arrivent du haut de l'écran et il faut défendre le bas. Plutôt simple mais vraiment efficace. J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. Je pense que la détection des objets qui controlent le jeu pourrait être travaillée et la partie était un peu longue à mon goût mais ce sont probablement les seules remarques que j'ai à faire.
 
-<h2>Prismatica</h2>
-
 <h2>Arcadia</h2>
 Arcadia à été réalisé par Dominic Yale, William Beauvais et Anton Nikulin. Ce projet est probablement celui qui cherche le moins à être unique en pratique. Il s'agit d'un jeu d'arcade avec des boutons et un joystick pour y jouer comme si c'étais une borne d'arcade old school. Le projet à été pensé avec l'idée de vouloir un jeu à "speedrun", une pratique qui consiste à essayer de finir le jeu en le moins de temps possible. Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arriver. Lorsque j'ai vu ce projet installé sur un ordi et que j'ai ensuite appris le but derrière, j'ai été un peu décu. On peut vraiment s'imaginer ce que l'équipe à voulu réaliser mais sans un support physique comme les autres installations, le projet n'est réellement qu'un jeu video. C'est pourquoi je pense qu'avoir une borne d'arcade faite sur mesure avec des lumières et des hauts parleurs qui répondent à ce qui se passe en jeu. 
+
+<h2>Prismatica</h2>
+Prismatica a été concue par Vincent Delisle, Ikrame Rata et Jérémy Duverseau. C'est une installation qui porte se base sur les dessins que l'utilisateur fait sur une surface pour jouer des sons et projeter des lumières sur un mur. L'installation ne marchait pas vraiment au moment où j'ai pu la côtoyer et je n'ai pas totalement saisi comment elle allait fonctionner ni où elle allait se situer. Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
