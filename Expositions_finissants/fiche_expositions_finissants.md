@@ -60,7 +60,7 @@ J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. 
 <h2>C0NDU8</h2>
 C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté. Leur projet est assez simple en pratique, c'est un vélo stationnaire connecté à un programe. Un jeu est projetté sur un mur à l'aide d'un projecteur. Le but est de pédaler le plus vite possible pour gagner une course contre d'autres cyclistes virtuels. 
 
-![photo](img/c0ndu8_ensemble.png)
+![photo](img/c0ndu8_ensemble.png) 
 J'ai pensé que cette idée était incroyable la seconde que je l'ai vue, mais je n'ai pas gardé cet opinion longtemps. Cette installation a besoin de travail dans l'état que je l'ai vue. Le premier réflexe d'une personne sur deux qui essaie leur installation est depédaler le plus vite possible pour le plus longtemps possible mais je pense vraiment que l'équipe de dévloppement n'y avait pas pensé. L'animation du personnage qui pédale est bien trop vite quand l'utilisateur pousse le vélo à ses limites et le vélo lui même fait une bruit d'enfer qui enterrait tout ce qu'on disait autour du dispositif. Je pense que ce projet à un avenir très prométteur mais il faudra y mettre du travail.
 
 <h2>Arcadia</h2>
