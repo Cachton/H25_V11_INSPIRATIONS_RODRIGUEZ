@@ -16,7 +16,7 @@ Un dispositif se basant sur des platformes tactiles pour afficher et changer des
 <br/><br/>
 4 - Fuga
 <br/>
-Fuga est un dispositif à boutons et faders qui influence la croissance d'un arbre virtuel.
+Un dispositif à boutons et faders qui influence la croissance d'un arbre virtuel.
 <br/><br/>
 5 - Etheria
 <br/>
