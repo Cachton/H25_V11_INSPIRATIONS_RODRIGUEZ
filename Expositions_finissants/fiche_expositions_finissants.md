@@ -50,6 +50,7 @@ Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Label
 le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce même support et jouent de l'audio qui varie selon l'intéraction avec les controles. La disposition des éléments est très bien pensée pour ce projet, ils ont même pensé à orner le tout de petits feuillages et plantes en plastique. Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 
 <h2>Etheria</h2>
+Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, Joshua Gonzalez-Barrera et Pierre-Luc Proulx. C'est un jeu video projeté sur une table en guise d'écran. Pour y jouer, vous devez utiliser des petits objets munis de codes pour controler un des trois personnages. Chaque personnage à une classe et se joue d'une manière différente. Des ennemis arrivent du haut de l'écran et il faut défendre le bas. Plutôt simple mais vraiment efficace. J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. Je pense que la détection des objets qui controlent le jeu pourrait être travaillée et la partie était un peu longue à mon goût mais ce sont probablement les seules remarques que j'ai à faire.
 
 <h2>Prismatica</h2>
 
