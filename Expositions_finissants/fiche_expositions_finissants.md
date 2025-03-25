@@ -38,6 +38,7 @@ Ces expositions présentées dans divers locaux du collège montmorency sont cr�
 
 <h2>Internature</h2>
 Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif. L'installation est très unique car elle se controle à l'aide d'un dispositif qui utilise la technologie d'une kinect pour suivre le mouvement d'une sphère qui influence les sons et projections sur le tunnel qui vous entoure. Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros mais après l'avoir essayé et expérimenté jai trouvé que l'idée était vraiment unique et que les projections fonctionnaient vraiment bien.
+<br/><br/>
 
 ![photo](img/internature_équipe.png)
 
@@ -45,7 +46,7 @@ Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Gre
 
 <h2>Luminatura</h2>
 Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer et Prethiah Rajaratnam. Ce projet est une collection de lumières, projections et un peu de son aussi. Trois plaques tactiles sont devant vous et elles sont éclrairées assez pour les voir dans la grande salle plongée dans l'obscuritée. Sur le plancher en face, une grande projection de lumières abstraites se promène et change de couleur au toucher des plaques. Au mur, une grande lumière similaire à celle au sol change également de couleur grâce aux plaques tactiles. Ces lumières se promènes et bougent sur les surfaces sur lesquelles elles sont projetées. Au plafond, des lustres pendent et suivent la couleur de la lumière des murs. Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. 
-<br/>
+<br/><br/>
 
 ![photo](img/luminatura_tablette.png)
 <br/>
@@ -55,7 +56,7 @@ Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur 
 
 <h2>Fuga</h2>
 Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer. Cette installation est la seule du lot qui utilise des écrans. La disposition des éléments est très originale. Sur une table étroite mais haute d'environs un mètre et quart, des petits boutons et des faders nous permettent de controller la pousse d'un arbre qui est le sujet de cette installation. Trois écrans sont attachés à un support au plafond et affichent le progrès de l'arbre dans sa croissance. Des haut parleurs sont montés sur ce même support et jouent de l'audio qui varie selon l'intéraction avec les controles. La disposition des éléments est très bien pensée pour ce projet, ils ont même pensé à orner le tout de petits feuillages et plantes en plastique. 
-<br/>
+<br/><br/>
 
 ![photo](img/fuga_boutons.png)
 <br/>
@@ -65,7 +66,7 @@ Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à 
 
 <h2>Etheria</h2>
 Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, Joshua Gonzalez-Barrera et Pierre-Luc Proulx. C'est un jeu video projeté sur une table en guise d'écran. Pour y jouer, vous devez utiliser des petits objets munis de codes pour controler un des trois personnages. Chaque personnage à une classe et se joue d'une manière différente. Des ennemis arrivent du haut de l'écran et il faut défendre le bas. Plutôt simple mais vraiment efficace. 
-<br/>
+<br/><br/>
 
 ![photo](img/etheria_gameplay.png)
 <br/>
@@ -75,7 +76,7 @@ J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. 
 
 <h2>C0NDU8</h2>
 C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexandre Gervais, Kevin Malric et Jérémy Roy Coté. Leur projet est assez simple en pratique, c'est un vélo stationnaire connecté à un programe. Un jeu est projetté sur un mur à l'aide d'un projecteur. Le but est de pédaler le plus vite possible pour gagner une course contre d'autres cyclistes virtuels. 
-<br/>
+<br/><br/>
 
 ![photo](img/c0ndu8_ensemble.png) 
 <br/>
@@ -85,7 +86,7 @@ J'ai pensé que cette idée était incroyable la seconde que je l'ai vue, mais j
 
 <h2>Arcadia</h2>
 Arcadia à été réalisé par Dominic Yale, William Beauvais et Anton Nikulin. Ce projet est probablement celui qui cherche le moins à être unique en pratique. Il s'agit d'un jeu d'arcade avec des boutons et un joystick pour y jouer comme si c'étais une borne d'arcade old school. Le projet à été pensé avec l'idée de vouloir un jeu à "speedrun", une pratique qui consiste à essayer de finir le jeu en le moins de temps possible. Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arriver. Lorsque j'ai vu ce projet installé sur un ordi et que j'ai ensuite appris le but derrière, j'ai été un peu décu.
-<br/>
+<br/><br/>
 
 ![photo](img/Arcadia_jeu.png)
 <br/>
@@ -94,7 +95,7 @@ On peut vraiment s'imaginer ce que l'équipe à voulu réaliser mais sans un sup
 
 
 J'ai pu revisiter les expositions plus tard lors du vernissage à l'école dans le grand studio et je dois dire que Arcadia a bien avancé. L'équipe a trouvé une borne d'arcade vierge et a intégré leur jeu dedans de manière professionnelle et propre. La borne est entièrement noire mais pour un projet étudiant, je n'aurait pas exigé qu'il trouve un artiste pour la customiser. La borne elle même est satisfesante à voir.
-<br/>
+<br/><br/>
 ![photo](img/arcadia_dispositif.png)
 
 <br/><br/>
