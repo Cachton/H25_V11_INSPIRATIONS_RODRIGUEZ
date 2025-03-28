@@ -2,9 +2,8 @@
 
 ![photo](./img/internature_projections.png) | ![photo](img/internature_équipe.png)
 :-------------------------:|:-------------------------:
- 
-Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
-L'installation est très unique car elle se controle à l'aide d'un dispositif qui utilise la technologie d'une kinect pour suivre le mouvement d'une sphère qui influence les sons et projections sur le tunnel qui vous entoure. Des projecteurs sont suspendus du plafond de chaque cotés de la salle et projettent l'imagerie sur la tente-tunnel au milieu de la salle.
+
+ Réalisée dans le cadre de l'exposition "RÉSONANCE" au collège Montmorency de Laval, Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif. L'installation est très unique car elle se controle à l'aide d'un dispositif qui utilise la technologie d'une kinect pour suivre le mouvement d'une sphère qui influence les sons et projections sur le tunnel qui vous entoure. Des projecteurs sont suspendus du plafond de chaque cotés de la salle et projettent l'imagerie sur la tente-tunnel au milieu de la salle.
 
 ![photo](img/internature_projecteurs.png)
 *photos par Pablo Pereira*
