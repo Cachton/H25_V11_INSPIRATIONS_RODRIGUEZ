@@ -52,7 +52,7 @@ La section plantation du Github de l'équipe est très complet !
 ![photo](img/internature_plantation_serre_3d.jpg)
 <br/>
 
-![photo](img/internature_plantation03.jpg)
+![photo](img/internature_plantation_serre_haut.jpg)
 <br/>
 
 
