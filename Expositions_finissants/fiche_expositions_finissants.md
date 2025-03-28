@@ -48,12 +48,15 @@ La section plantation du Github de l'équipe est très complète !
 <br/><br/>
 
 ![photo](img/internature_plantation01.jpg)
+*Vue de haut plan studio*
 <br/>
 
 ![photo](img/internature_plantation_serre_3d.jpg)
+*Vue de coté*
 <br/>
 
 ![photo](img/internature_plantation_serre_haut.jpg)
+*Vue de haut*
 <br/>
 https://tprangers.github.io/internature/#/30_production/60_plantation/
 <br/><br/>
