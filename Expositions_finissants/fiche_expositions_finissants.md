@@ -78,8 +78,11 @@ Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Label
 La section plantation du Github de l'équipe est belle simple et efficace !
 
 ![photo]()
+<br/>
 ![photo]()
+<br/>
 ![photo]()
+<br/>
 <br/><br/>
 Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 
