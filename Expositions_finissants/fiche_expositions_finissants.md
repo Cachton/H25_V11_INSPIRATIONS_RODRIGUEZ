@@ -2,9 +2,8 @@
 
 <p align="center">
   <img src="img/carte_resonance.png" width="600px"> <br>
+  Photo tirée du [site de l'exposition.](https://tim-montmorency.com/2025/#/)
 </p>
-<br/>
-*Photo tirée du [site de l'exposition.](https://tim-montmorency.com/2025/#/)*
 <br/>
 
 <h3>Projets présentés ;</h3>
