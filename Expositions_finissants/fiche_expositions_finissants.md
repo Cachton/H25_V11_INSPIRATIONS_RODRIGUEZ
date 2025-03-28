@@ -53,7 +53,7 @@ La section plantation du Github de l'équipe est très complète !
 ![photo](img/internature_plantation_serre_haut.jpg) | ![photo](img/internature_plantation_sphere.jpg) | 
 :-------------------------:|:-------------------------:
 
-*tout schéma de plantation est fourni par le github de l'équipe. https://tprangers.github.io/internature/#/30_production/60_plantation/*
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.]https://tprangers.github.io/internature/#/30_production/60_plantation/*
 <br/>
 https://tprangers.github.io/internature/#/30_production/60_plantation/
 <br/><br/>
@@ -74,7 +74,7 @@ La section plantation du Github de l'équipe est très simple et efficace !
 ![photo](img/luminatura_plantation_materiel.jpg) | ![photo](img/luminatura_plantation_espace.png) 
 :-------------------------:|:-------------------------:
 
-*tout schéma de plantation est fourni par le github de l'équipe. https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/*
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/)*
 <br/><br/>
 Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
 
@@ -97,7 +97,7 @@ La section plantation du Github de l'équipe est belle simple et efficace !
 ![photo](img/fuga_plantation_cote.png) | ![photo](img/fuga_plantation_haut.png)
 :-------------------------:|:-------------------------:
 
-*tout schéma de plantation est fourni par le github de l'équipe. [GitHub de l'équipe](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
 <br/>
 Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 
