@@ -127,11 +127,12 @@ J'ai pensé que cette idée était incroyable la seconde que je l'ai vue, mais j
 <br/>
 
 <h2>Arcadia</h2>
-Arcadia à été réalisé par Dominic Yale, William Beauvais et Anton Nikulin. Ce projet est probablement celui qui cherche le moins à être unique en pratique. Il s'agit d'un jeu d'arcade avec des boutons et un joystick pour y jouer comme si c'étais une borne d'arcade old school. Le projet à été pensé avec l'idée de vouloir un jeu à "speedrun", une pratique qui consiste à essayer de finir le jeu en le moins de temps possible. Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arriver. Lorsque j'ai vu ce projet installé sur un ordi et que j'ai ensuite appris le but derrière, j'ai été un peu décu.
+Arcadia à été réalisé par Dominic Yale, William Beauvais et Anton Nikulin. Ce projet est probablement celui qui cherche le moins à être unique en pratique. Il s'agit d'un jeu d'arcade avec des boutons et un joystick pour y jouer comme si c'étais une borne d'arcade old school. Le projet à été pensé avec l'idée de vouloir un jeu à "speedrun", une pratique qui consiste à essayer de finir le jeu en le moins de temps possible.
 <br/><br/>
 
 ![photo](img/Arcadia_jeu.png)
 <br/>
+Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arriver. Lorsque j'ai vu ce projet installé sur un ordi et que j'ai ensuite appris le but derrière, j'ai été un peu décu.
 <br/>
 On peut vraiment s'imaginer ce que l'équipe à voulu réaliser mais sans un support physique comme les autres installations, le projet n'est réellement qu'un jeu video. C'est pourquoi je pense qu'avoir une borne d'arcade faite sur mesure avec des lumières et des hauts parleurs qui répondent à ce qui se passe en jeu.
 
