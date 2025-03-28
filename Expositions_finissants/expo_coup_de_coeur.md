@@ -1,7 +1,7 @@
 
 <h1>Internature</h1>
 
-![photo](img/internature_équipe.png)
+![photo](img/internature_projections.png)
 Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif. L'installation est très unique car elle se controle à l'aide d'un dispositif qui utilise la technologie d'une kinect pour suivre le mouvement d'une sphère qui influence les sons et projections sur le tunnel qui vous entoure. 
 <br/><br/>
 
