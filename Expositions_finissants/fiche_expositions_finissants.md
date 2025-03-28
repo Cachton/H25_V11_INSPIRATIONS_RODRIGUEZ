@@ -46,13 +46,13 @@ Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Gre
 La section plantation du Github de l'équipe est très complet !
 <br/><br/>
 
-![photo](Expositions_finissants/img/internature_plantation01.jpg)
+![photo](img/internature_plantation01.jpg)
 <br/>
 
-![photo](Expositions_finissants/img/internature_plantation02.jpg)
+![photo](img/internature_plantation02.jpg)
 <br/>
 
-![photo](Expositions_finissants/img/internature_plantation03.jpg)
+![photo](img/internature_plantation03.jpg)
 <br/>
 
 
