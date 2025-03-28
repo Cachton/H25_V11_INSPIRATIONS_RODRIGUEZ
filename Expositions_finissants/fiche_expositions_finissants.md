@@ -58,6 +58,12 @@ Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand,
 
 ![photo](img/luminatura_tablette.png)
 <br/>
+
+La section plantation du Github de l'équipe est très simple et efficace !
+
+
+![photo]()
+
 Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
 
 <br/><br/>
@@ -68,6 +74,13 @@ Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Label
 
 ![photo](img/fuga_boutons.png)
 <br/>
+
+La section plantation du Github de l'équipe est belle simple et efficace !
+
+![photo]()
+![photo]()
+![photo]()
+<br/><br/>
 Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 
 <br/><br/>
