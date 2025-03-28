@@ -69,6 +69,7 @@ Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand,
 <br/><br/>
 
 ![photo](img/luminatura_tablette.png)
+*Photo de Mateo Rodriguez*
 <br/>
 
 La section plantation du Github de l'équipe est très simple et efficace !
@@ -87,6 +88,7 @@ Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Label
 <br/><br/>
 
 ![photo](img/fuga_boutons.png)
+*Photo de Mateo Rodriguez*
 <br/>
 
 La section plantation du Github de l'équipe est belle simple et efficace !
@@ -106,6 +108,7 @@ Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, J
 <br/><br/>
 
 ![photo](img/etheria_gameplay.png)
+*Photo de Mateo Rodriguez*
 <br/>
 La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis.
 
@@ -120,6 +123,7 @@ C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexa
 <br/><br/>
 
 ![photo](img/c0ndu8_ensemble.png) 
+*Photo de Mateo Rodriguez*
 <br/>
 La section plantation du Github de l'équipe est extrèmement minime comparée aux autres équipes.
 
