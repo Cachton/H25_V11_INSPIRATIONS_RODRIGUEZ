@@ -169,5 +169,11 @@ La section plantation du Github de l'équipe est très complète.
 ![photo](img/prismatica_plantation_espace.jpg)
 <br/>
 
+![photo](img/prismatica_plantation_02.jpg) | ![photo](img/prismatica_plantation_03.jpg) | 
+:-------------------------:|:-------------------------:
+
+![photo](img/prismatica_plantation_04.jpg) | ![photo](img/prismatica_plantation_05.jpg) | 
+:-------------------------:|:-------------------------:
+
 Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
 
