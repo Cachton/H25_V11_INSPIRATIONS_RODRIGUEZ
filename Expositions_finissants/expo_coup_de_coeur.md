@@ -17,6 +17,7 @@ La section plantation du Github de l'équipe est très complète ! La Gallerie e
 
 ![photo](img/internature_plantation_serre_haut.jpg) | ![photo](img/internature_plantation_sphere.jpg) | 
 :-------------------------:|:-------------------------:
+*tout schéma de plantation est fourni par le github de l'équipe.*
 
 <br/>
 https://tprangers.github.io/internature/#/30_production/60_plantation/
