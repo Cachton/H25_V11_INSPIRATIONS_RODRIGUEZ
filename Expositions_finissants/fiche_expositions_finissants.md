@@ -48,8 +48,10 @@ La section plantation du Github de l'équipe est très complet !
 
 ![photo](Expositions_finissants/img/internature_plantation01.jpg)
 <br/>
+
 ![photo](Expositions_finissants/img/internature_plantation02.jpg)
 <br/>
+
 ![photo](Expositions_finissants/img/internature_plantation03.jpg)
 <br/>
 
