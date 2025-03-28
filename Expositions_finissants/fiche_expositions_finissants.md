@@ -61,8 +61,6 @@ La section plantation du Github de l'équipe est très complète !
 :-------------------------:|:-------------------------:
 
 *Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://tprangers.github.io/internature/#/30_production/60_plantation/)*
-<br/>
-https://tprangers.github.io/internature/#/30_production/60_plantation/
 <br/><br/>
 Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros mais après l'avoir essayé et expérimenté jai trouvé que l'idée était vraiment unique et que les projections fonctionnaient vraiment bien.
 
