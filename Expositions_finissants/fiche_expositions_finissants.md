@@ -110,8 +110,9 @@ Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à 
 Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, Joshua Gonzalez-Barrera et Pierre-Luc Proulx. C'est un jeu video projeté sur une table en guise d'écran. Pour y jouer, vous devez utiliser des petits objets munis de codes pour controler un des trois personnages. Chaque personnage à une classe et se joue d'une manière différente. Des ennemis arrivent du haut de l'écran et il faut défendre le bas. Plutôt simple mais vraiment efficace. 
 <br/><br/>
 
-![photo](img/etheria_gameplay.png)
-*Photo de Mateo Rodriguez*
+![photo](img/etheria_01.jpg) 
+
+*[Photo](https://ethereal-creators.github.io/Etheria/#/50_diffusion/)*
 <br/>
 La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis.
 
