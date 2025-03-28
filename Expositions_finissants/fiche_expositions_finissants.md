@@ -38,6 +38,7 @@ Ces expositions présentées dans divers locaux du collège montmorency sont cr�
 
 <h2>Internature</h2>
 Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif. L'installation est très unique car elle se controle à l'aide d'un dispositif qui utilise la technologie d'une kinect pour suivre le mouvement d'une sphère qui influence les sons et projections sur le tunnel qui vous entoure. 
+<br/><br/>
 
 ![photo](img/internature_équipe.png)
 <br/>
