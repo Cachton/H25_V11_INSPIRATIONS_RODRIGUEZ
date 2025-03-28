@@ -111,6 +111,7 @@ Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, J
 La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis.
 
 ![photo](img/Etheria_plantation.jpg)
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
 
 J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. Je pense que la détection des objets qui controlent le jeu pourrait être travaillée et la partie était un peu longue à mon goût mais ce sont probablement les seules remarques que j'ai à faire. 
 
@@ -126,6 +127,7 @@ C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexa
 La section plantation du Github de l'équipe est extrèmement minime comparée aux autres équipes.
 
 ![photo](img/c0du8_plantation_materiel.png) 
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
 <br/>
 
 J'ai pensé que cette idée était incroyable la seconde que je l'ai vue, mais je n'ai pas gardé cet opinion longtemps. Cette installation a besoin de travail dans l'état que je l'ai vue. Le premier réflexe d'une personne sur deux qui essaie leur installation est depédaler le plus vite possible pour le plus longtemps possible mais je pense vraiment que l'équipe de dévloppement n'y avait pas pensé. L'animation du personnage qui pédale est bien trop vite quand l'utilisateur pousse le vélo à ses limites et le vélo lui même fait une bruit d'enfer qui enterrait tout ce qu'on disait autour du dispositif. Je pense que ce projet à un avenir très prométteur mais il faudra y mettre du travail.
