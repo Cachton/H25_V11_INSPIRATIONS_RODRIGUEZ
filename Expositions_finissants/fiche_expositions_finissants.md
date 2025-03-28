@@ -103,6 +103,10 @@ Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, J
 
 ![photo](img/etheria_gameplay.png)
 <br/>
+La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis.
+
+![photo](img/Etheria_plantation.jpg)
+
 J'ai vraiment eu du plaisir à regarder mes amis jouer au jeu de cette équipe. Je pense que la détection des objets qui controlent le jeu pourrait être travaillée et la partie était un peu longue à mon goût mais ce sont probablement les seules remarques que j'ai à faire. 
 
 <br/><br/>
