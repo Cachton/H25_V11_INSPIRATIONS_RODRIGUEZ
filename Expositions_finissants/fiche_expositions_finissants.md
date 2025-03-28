@@ -75,7 +75,7 @@ La section plantation du Github de l'équipe est très simple et efficace !
 :-------------------------:|:-------------------------:
 
 *tout schéma de plantation est fourni par le github de l'équipe. https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/*
-<br/>
+<br/><br/>
 Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
 
 <br/>
