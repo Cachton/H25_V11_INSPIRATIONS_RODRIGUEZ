@@ -148,8 +148,7 @@ J'ai pu revisiter les expositions plus tard lors du vernissage à l'école dans 
 
 
 <h2>Prismatica</h2>
-Prismatica a été concue par Vincent Delisle, Ikrame Rata et Jérémy Duverseau. C'est une installation qui porte se base sur les dessins que l'utilisateur fait sur une surface pour jouer des sons et projeter des lumières sur un mur. L'installation ne marchait pas vraiment au moment où j'ai pu la côtoyer et je n'ai pas totalement saisi comment elle allait fonctionner ni où elle allait se situer. 
-
+Prismatica a été concue par Vincent Delisle, Ikrame Rata et Jérémy Duverseau. C'est une installation qui porte se base sur les dessins que l'utilisateur fait sur une surface pour jouer des sons et projeter des lumières sur un mur. L'installation ne marchait pas vraiment au moment où j'ai pu la côtoyer et je n'ai pas totalement saisi comment elle allait fonctionner.
 ![photo](img/prismatica_dispositif.png)
 <br/>
 La section plantation du Github de l'équipe est très complète.
