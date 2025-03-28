@@ -43,6 +43,11 @@ Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Gre
 ![photo](img/internature_équipe.png)
 <br/>
 
+La section plantation du Github de l'équipe est très complet !
+<br/><br/>
+
+![photo]()
+
 Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros mais après l'avoir essayé et expérimenté jai trouvé que l'idée était vraiment unique et que les projections fonctionnaient vraiment bien.
 
 <br/><br/>
