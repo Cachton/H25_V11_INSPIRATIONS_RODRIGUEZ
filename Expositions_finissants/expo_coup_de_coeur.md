@@ -10,7 +10,7 @@ L'installation est très unique car elle se controle à l'aide d'un dispositif q
 *photos par Pablo Pereira*
 <br/><br/>
 
-La section plantation du Github de l'équipe est très complète ! La Gallerie est bien fournie de photos et videos diverses.
+La section plantation du Github de l'équipe est très complète ! La Gallerie est bien fournie de photos et videos diverses. Les images de plantation ont un style particulier très professionel et accessible. 
 
 ![photo](img/internature_plantation01.jpg) | ![photo](img/internature_plantation_serre_3d.jpg) | 
 :-------------------------:|:-------------------------:
