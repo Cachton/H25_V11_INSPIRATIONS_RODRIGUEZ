@@ -93,7 +93,7 @@ Fuga est une oeuvre réalisée par Abdel Ali Djeral, Daniel Dezemma, Matis Label
 ![photo](img/fuga01.jpg) | ![photo](img/fuga02.jpg) 
 :-------------------------:|:-------------------------:
 
-*Photo de Mateo Rodriguez*
+*Photos par Mateo Rodriguez*
 <br/>
 
 La section plantation du Github de l'équipe est belle simple et efficace !
@@ -113,7 +113,7 @@ Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, J
 
 ![photo](img/etheria_01.jpg) 
 
-*[Photo](https://ethereal-creators.github.io/Etheria/#/50_diffusion/)*
+*Photo tiré du [GitHub de l'équipe](https://ethereal-creators.github.io/Etheria/#/50_diffusion/)*
 <br/>
 La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis. Elle n'est pas vraiment compréhensible facilement de tous car toutes les lignes se chevauchent.
 
