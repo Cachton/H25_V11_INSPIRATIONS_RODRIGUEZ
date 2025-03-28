@@ -171,6 +171,8 @@ Prismatica a été concue par Vincent Delisle, Ikrame Rata et Jérémy Duverseau
 ![photo](img/prismatica01.jpg) | ![photo](img/prismatica02.jpg) |
 :-------------------------:|:-------------------------:
 
+*Photos tirés du [GitHub de l'équipe](https://pootpookies.github.io/Prismatica/#/)
+
 La section plantation du Github de l'équipe est très complète.
 <br/>
 
