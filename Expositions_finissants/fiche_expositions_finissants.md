@@ -73,6 +73,7 @@ Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand,
 ![photo](img/luminatura01.jpeg) | ![photo](img/luminatura02.jpeg) 
 :-------------------------:|:-------------------------:
 
+*Photos tirés du [GitHub de l'équipe](https://miaou-mafia.github.io/projet-luminatura/#/50_diffusion/)*
 
 La section plantation du Github de l'équipe est très simple et efficace !
 
