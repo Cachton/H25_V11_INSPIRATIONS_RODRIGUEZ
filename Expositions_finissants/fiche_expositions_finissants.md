@@ -114,7 +114,7 @@ Etheria est une oeuvre concue par Victor Gileau, Maik Hemel Micheal Un Dupré, J
 
 *[Photo](https://ethereal-creators.github.io/Etheria/#/50_diffusion/)*
 <br/>
-La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis.
+La section plantation du Github de l'équipe est difficile à comprendre et plutôt incomplette à mon avis. Elle n'est pas vraiment compréhensible facilement de tous car toutes les lignes se chevauchent.
 
 ![photo](img/Etheria_plantation.jpg)
 *Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)*
