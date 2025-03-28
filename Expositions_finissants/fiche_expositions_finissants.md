@@ -94,6 +94,7 @@ La section plantation du Github de l'équipe est belle simple et efficace !
 
 ![photo](img/fuga_plantation_cote.png)
 <br/>
+
 ![photo](img/fuga_plantation_face.png) | ![photo](img/fuga_plantation_haut.png)
 :-------------------------:|:-------------------------:
 
