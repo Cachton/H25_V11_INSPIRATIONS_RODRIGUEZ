@@ -130,7 +130,8 @@ C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexa
 ![photo](img/c0ndu8_ensemble.png) 
 *Photo de Mateo Rodriguez*
 <br/>
-La section plantation du Github de l'équipe est extrèmement minime comparée aux autres équipes.
+La section plantation du Github de l'équipe est satisfaisante pour le projet présenté.
+
 
 ![photo](img/c0du8_plantation_materiel.png) 
 *Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
@@ -152,7 +153,7 @@ Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arri
 On peut vraiment s'imaginer ce que l'équipe à voulu réaliser mais sans un support physique comme les autres installations, le projet n'est réellement qu'un jeu video. C'est pourquoi je pense qu'avoir une borne d'arcade faite sur mesure avec des lumières et des hauts parleurs qui répondent à ce qui se passe en jeu.
 
 <br/>
-La section plantation du Github de l'équipe est satisfaisante pour le projet présenté.
+La section plantation du Github de l'équipe est extrèmement minime comparée aux autres équipes.
 <br/>
 
 ![photo](img/arcadia_plantation.png) 
@@ -180,6 +181,8 @@ La section plantation du Github de l'équipe est très complète.
 
 ![photo](img/prismatica_plantation_04.jpg) | ![photo](img/prismatica_plantation_05.jpg) | 
 :-------------------------:|:-------------------------:
+
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/)*
 
 Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
 
