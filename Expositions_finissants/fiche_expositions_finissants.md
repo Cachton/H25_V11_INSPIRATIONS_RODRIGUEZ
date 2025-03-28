@@ -65,9 +65,9 @@ Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros m
 Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer et Prethiah Rajaratnam. Ce projet est une collection de lumières, projections et un peu de son aussi. Trois plaques tactiles sont devant vous et elles sont éclrairées assez pour les voir dans la grande salle plongée dans l'obscuritée. Sur le plancher en face, une grande projection de lumières abstraites se promène et change de couleur au toucher des plaques. Au mur, une grande lumière similaire à celle au sol change également de couleur grâce aux plaques tactiles. Ces lumières se promènes et bougent sur les surfaces sur lesquelles elles sont projetées. Au plafond, des lustres pendent et suivent la couleur de la lumière des murs.
 <br/><br/>
 
-![photo](img/luminatura_tablette.png)
-*Photo de Mateo Rodriguez*
-<br/>
+![photo](img/luminatura01.jpeg) | ![photo](img/luminatura02.jpeg) 
+:-------------------------:|:-------------------------:
+
 
 La section plantation du Github de l'équipe est très simple et efficace !
 
