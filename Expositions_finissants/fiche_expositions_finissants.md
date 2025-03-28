@@ -61,7 +61,7 @@ Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros m
 <br/><br/>
 
 <h2>Luminatura</h2>
-Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer et Prethiah Rajaratnam. Ce projet est une collection de lumières, projections et un peu de son aussi. Trois plaques tactiles sont devant vous et elles sont éclrairées assez pour les voir dans la grande salle plongée dans l'obscuritée. Sur le plancher en face, une grande projection de lumières abstraites se promène et change de couleur au toucher des plaques. Au mur, une grande lumière similaire à celle au sol change également de couleur grâce aux plaques tactiles. Ces lumières se promènes et bougent sur les surfaces sur lesquelles elles sont projetées. Au plafond, des lustres pendent et suivent la couleur de la lumière des murs. Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. 
+Luminatura est une magnifique oeuvre pensée et réalisée par Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer et Prethiah Rajaratnam. Ce projet est une collection de lumières, projections et un peu de son aussi. Trois plaques tactiles sont devant vous et elles sont éclrairées assez pour les voir dans la grande salle plongée dans l'obscuritée. Sur le plancher en face, une grande projection de lumières abstraites se promène et change de couleur au toucher des plaques. Au mur, une grande lumière similaire à celle au sol change également de couleur grâce aux plaques tactiles. Ces lumières se promènes et bougent sur les surfaces sur lesquelles elles sont projetées. Au plafond, des lustres pendent et suivent la couleur de la lumière des murs.
 <br/><br/>
 
 ![photo](img/luminatura_tablette.png)
@@ -71,8 +71,8 @@ La section plantation du Github de l'équipe est très simple et efficace !
 
 
 ![photo]()
-
-Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
+<br/>
+Lorsque j'ai vu cette installation j'ai automatiquement pensé qu'elle était la plus belle et je le pense encore mais l'intéractivitée laisse à désirer. Je trouve qu'on ne retrouve pas une réponse très claire que ce qu'on fait sur les tablettes influence réellement ce qu'on voit car on est souvent pas les seuls à toucher aux tablettes à la fois donc il était difficile de savoir si ce que je faisais était de moi ou des autres personne qui essayaient les autres tablettes. 
 
 <br/><br/>
 
