@@ -1,5 +1,9 @@
 <h1> Expositions intéractives finissants TIM dans le cadre de l'exposition Résonnance</h1>
 
+![photo](img/carte_resonance.png)
+*photo tirée du [site de l'exposition](https://tim-montmorency.com/2025/#/)*
+<br/>
+
 <h3>Projets présentés ;</h3>
 
 1 - Internature
