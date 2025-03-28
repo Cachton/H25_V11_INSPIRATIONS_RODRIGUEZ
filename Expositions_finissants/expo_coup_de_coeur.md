@@ -36,7 +36,7 @@ Pour cette installation je pense à trois cours indispensables;<br/>
 
 <br/><br/>
 <h2>SOURCES</h2>
-GitHub de l'équipe derrière le projet; [GitHub INTERNATURE](https://tprangers.github.io/internature/#/) <br/>
-Grille de cours du programme TIM Montmorency; [Techniques d’intégration multimédia - 582.A1](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/)
+GitHub de l'équipe derrière le projet; https://tprangers.github.io/internature/#/ <br/>
+Grille de cours du programme TIM Montmorency; https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/
 
 
