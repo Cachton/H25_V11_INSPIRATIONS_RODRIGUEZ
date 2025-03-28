@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="img/carte_resonance.png" width="600px"> <br>
-  Photo tirée du [site de l'exposition.](https://tim-montmorency.com/2025/#/)
+  Photo tirée du site de l'exposition. (https://tim-montmorency.com/2025/#/)
 </p>
 <br/>
 
