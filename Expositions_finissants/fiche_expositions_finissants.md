@@ -119,7 +119,7 @@ C0NDU8 est un dispositif réalisé par Ian Corbin, Samuel Desmeules Voyer, Alexa
 <br/>
 La section plantation du Github de l'équipe est extrèmement minime comparée aux autres équipes.
 
-![photo](img/arcadia_plantation.png) 
+![photo](img/c0du8_plantation_materiel.png) 
 <br/>
 
 J'ai pensé que cette idée était incroyable la seconde que je l'ai vue, mais je n'ai pas gardé cet opinion longtemps. Cette installation a besoin de travail dans l'état que je l'ai vue. Le premier réflexe d'une personne sur deux qui essaie leur installation est depédaler le plus vite possible pour le plus longtemps possible mais je pense vraiment que l'équipe de dévloppement n'y avait pas pensé. L'animation du personnage qui pédale est bien trop vite quand l'utilisateur pousse le vélo à ses limites et le vélo lui même fait une bruit d'enfer qui enterrait tout ce qu'on disait autour du dispositif. Je pense que ce projet à un avenir très prométteur mais il faudra y mettre du travail.
@@ -142,7 +142,8 @@ J'ai pu revisiter les expositions plus tard lors du vernissage à l'école dans 
 ![photo](img/arcadia_dispositif.png)
 
 <br/>
-
+La section plantation du Github de l'équipe est satisfaisante pour le projet présenté.
+![photo](img/arcadia_plantation.png) 
 <h2>Prismatica</h2>
 Prismatica a été concue par Vincent Delisle, Ikrame Rata et Jérémy Duverseau. C'est une installation qui porte se base sur les dessins que l'utilisateur fait sur une surface pour jouer des sons et projeter des lumières sur un mur. L'installation ne marchait pas vraiment au moment où j'ai pu la côtoyer et je n'ai pas totalement saisi comment elle allait fonctionner ni où elle allait se situer. Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
 <br/><br/>
