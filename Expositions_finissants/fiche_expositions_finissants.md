@@ -97,7 +97,7 @@ La section plantation du Github de l'équipe est belle simple et efficace !
 
 *Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)*
 <br/>
-Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand publique. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
+Je pense que cette oeuvre donnait déja le sentiment d'être finie et prête à présenter au grand public. Les éléments visuels étaient profesionnels et le son semblait très naturel. Je ne saurait quoi dire de négatif par rapport à cette installation.
 
 <br/>
 
