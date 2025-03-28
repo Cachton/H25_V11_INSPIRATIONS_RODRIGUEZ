@@ -27,7 +27,7 @@ La section plantation du Github de l'équipe est très complète ! La Gallerie e
 *tout schéma de plantation est fourni par le github de l'équipe. https://tprangers.github.io/internature/#/30_production/60_plantation/*
 
 <br/>
-J'ai eu la chance de visiter et essayer cette installation le 25 février 2025. Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros mais après l'avoir essayé et expérimenté jai trouvé que l'idée était vraiment unique et que les projections fonctionnaient vraiment bien. Elle est considérée une oeuvre intéractive mais je pense que l'intéractivitée est difficilement représenté.
+J'ai eu la chance de visiter et essayer cette installation le 25 février 2025. Au début j'ai pensé que le tunnel était peut-être une peu inutilement gros mais après l'avoir essayé et expérimenté jai trouvé que l'idée était vraiment unique et que les projections fonctionnaient vraiment bien. Elle est considérée une oeuvre intéractive mais je pense que l'intéractivitée est difficilement représenté. Je pense que si le principe de l'oeuvre était plutôt de faire un jeu avec la technologie intéressante que l'équipe à utilisée, le public aurait eu bien d'avantage d'intérêt pour cette oeuvre. Dès que j'ai défiler à travers des photos disponibles sur leur Github, j'ai instantanément pensé à un mini-jeu de rouler la sphère pour trouver la sortie d'un labyrinthe. Les projections avaient tellement de potentiel et je pense que le produit final ne meet pas assez en valeur les projecteurs et leur technologie unique.
 <br/><br/>
 Pour cette installation je pense à trois cours indispensables;<br/>
 -Traitment audiovisuel<br/>
