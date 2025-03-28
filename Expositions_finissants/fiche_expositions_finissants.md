@@ -154,6 +154,7 @@ La section plantation du Github de l'équipe est satisfaisante pour le projet pr
 J'ai pu revisiter les expositions plus tard lors du vernissage à l'école dans le grand studio et je dois dire que Arcadia a bien avancé. L'équipe a trouvé une borne d'arcade vierge et a intégré leur jeu dedans de manière professionnelle et propre. La borne est entièrement noire mais pour un projet étudiant, je n'aurait pas exigé qu'il trouve un artiste pour la customiser. La borne elle même est satisfesante à voir.
 <br/><br/>
 ![photo](img/arcadia_dispositif.png)
+*Photo de Mateo Rodriguez*
 
 
 <h2>Prismatica</h2>
@@ -164,7 +165,6 @@ La section plantation du Github de l'équipe est très complète.
 <br/>
 
 ![photo](img/prismatica_plantation_espace.jpg)
-*Photo de Mateo Rodriguez*
 <br/>
 
 Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
