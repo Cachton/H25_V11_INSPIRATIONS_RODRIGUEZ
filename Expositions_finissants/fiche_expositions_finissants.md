@@ -139,6 +139,7 @@ On peut vraiment s'imaginer ce que l'équipe à voulu réaliser mais sans un sup
 <br/>
 La section plantation du Github de l'équipe est satisfaisante pour le projet présenté.
 <br/>
+
 ![photo](img/arcadia_plantation.png) 
 
 J'ai pu revisiter les expositions plus tard lors du vernissage à l'école dans le grand studio et je dois dire que Arcadia a bien avancé. L'équipe a trouvé une borne d'arcade vierge et a intégré leur jeu dedans de manière professionnelle et propre. La borne est entièrement noire mais pour un projet étudiant, je n'aurait pas exigé qu'il trouve un artiste pour la customiser. La borne elle même est satisfesante à voir.
