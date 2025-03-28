@@ -1,7 +1,11 @@
 <h1> Expositions intéractives finissants TIM dans le cadre de l'exposition Résonnance</h1>
 
-![photo](img/carte_resonance.png)
-*photo tirée du [site de l'exposition](https://tim-montmorency.com/2025/#/)*
+<p align="center">
+  <img src="/img/carte_resonance.png" width="600px"> <br>
+  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+</p>
+<br/>
+*Photo tirée du [site de l'exposition.](https://tim-montmorency.com/2025/#/)*
 <br/>
 
 <h3>Projets présentés ;</h3>
