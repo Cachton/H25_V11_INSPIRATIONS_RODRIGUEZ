@@ -1,8 +1,7 @@
 <h1> Expositions intéractives finissants TIM dans le cadre de l'exposition Résonnance</h1>
 
 <p align="center">
-  <img src="/img/carte_resonance.png" width="600px"> <br>
-  <i>Vue d'ensemble - 18/03/2025 - prise par Olivier Laliberté</i>
+  <img src="img/carte_resonance.png" width="600px"> <br>
 </p>
 <br/>
 *Photo tirée du [site de l'exposition.](https://tim-montmorency.com/2025/#/)*
@@ -61,7 +60,7 @@ La section plantation du Github de l'équipe est très complète !
 ![photo](img/internature_plantation_serre_haut.jpg) | ![photo](img/internature_plantation_sphere.jpg) | 
 :-------------------------:|:-------------------------:
 
-*Tout schéma de plantation est fourni par le [GitHub de l'équipe.]https://tprangers.github.io/internature/#/30_production/60_plantation/*
+*Tout schéma de plantation est fourni par le [GitHub de l'équipe.](https://tprangers.github.io/internature/#/30_production/60_plantation/)*
 <br/>
 https://tprangers.github.io/internature/#/30_production/60_plantation/
 <br/><br/>
