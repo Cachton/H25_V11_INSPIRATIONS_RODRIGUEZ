@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)https://tprangers.github.io/internature/#/30_production/60_plantation/ -->
+<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="description" content="Internature">
+    <title>Plantation</title>
+
+        <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:title" content="Modele docsify avec actions">
+    <meta property="og:description" content="Modele de projet multimédia">
+    <meta property="og:image" content="https://tim-montmorency.com/58266b-experience-modele/favicon/opengraph.drawio.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="https://tprangers.github.io/internature/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://tprangers.github.io/internature/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://tprangers.github.io/internature/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://tprangers.github.io/internature/favicon/site.webmanifest">
+       
+    <link rel="stylesheet" href="./internature_plantation03_files/docsify-simple-style.css">
+
+    <link rel="stylesheet" href="./internature_plantation03_files/docsify-lightbox.css">
+    <!-- Custom Styles -->
+    <style>
+        :root {
+            --theme-hue:2;
+            --theme-link: rgb(222, 233, 234); 
+            --theme-highlight: #00bcf0;
+            --sidebar-active-text: #00bcf0; 
+        }
+
+        body {
+            background-color: #07111a; 
+        }
+
+        .markdown-section a {
+            margin-top: 10px;
+            font-style: italic;
+            font-size: smaller;
+        }
+
+        .markdown-section a:hover {
+            color: #9ebdc6; 
+        }
+
+        .sidebar > h1 {
+            margin: 1rem 1rem 1rem; 
+            text-align: left;
+        }
+
+        .sidebar > h1 a {
+            color: var(--theme-link); 
+            font-weight: 600; 
+        }
+
+        .sidebar {
+            background-color: #0a1733; 
+        }
+
+        .markdown-section h4{
+            color: var(--theme-link);
+            font-weight: 100;
+            text-align: center; 
+        }
+
+        #main {
+            color: var(--theme-link);
+        }
+
+        .anchor span {
+            color: var(--theme-link);
+            text-transform: uppercase;
+            font-style: normal;
+        }
+
+        svg {
+            fill: #00bcf0; 
+        }
+
+        .sidebar ul li a {
+            color: var(--theme-link);
+            font-size: medium;
+        }
+
+        .sidebar-toggle {
+            background-color: #182643;
+            width: 300px; 
+        }
+
+        figcaption {
+            margin-top: 10px;
+        }
+
+        .search {
+            border-bottom: 1px solid #0a1733 !important;
+        }
+
+        .markdown-section tr:nth-child(2n){
+            background-color: #0a1825;
+        }
+
+        .markdown-section h1 {
+            font-size: 3.8rem;
+        }
+
+        .markdown-section h2 {
+            font-size: 3rem;
+        }
+
+        .markdown-section h3 {
+            font-size: 2rem;
+        }
+
+        .markdown-section h4 {
+            text-align: left;
+        }
+
+
+        @media screen and (max-width: 768px) {
+        .sidebar-toggle {
+            background-color: transparent;
+        }
+    }
+
+    </style>
+
+
+<style type="text/css">.docsify-copy-code-button,.docsify-copy-code-button>span{cursor:pointer;transition:all .25s ease}.docsify-copy-code-button{background:grey;background:var(--theme-color,grey);border:0;border-radius:0;color:#fff;font-size:1em;opacity:0;outline:0;overflow:visible;padding:.65em .8em;position:absolute;right:0;top:0;z-index:1}.docsify-copy-code-button>span{background:inherit;border-radius:3px;pointer-events:none}.docsify-copy-code-button>.error,.docsify-copy-code-button>.success{font-size:.825em;opacity:0;padding:.5em .65em;position:absolute;right:0;top:50%;transform:translateY(-50%);z-index:-100}.docsify-copy-code-button.error>.error,.docsify-copy-code-button.success>.success{opacity:1;right:100%;transform:translate(-25%,-50%)}.docsify-copy-code-button:focus,pre:hover .docsify-copy-code-button{opacity:1}.docsify-copy-code-button>[aria-live]{height:1px;left:-10000px;overflow:hidden;position:absolute;top:auto;width:1px}</style><style type="text/css">.sidebar-nav > ul > li ul {
+  display: none;
+}
+
+.app-sub-sidebar {
+  display: none;
+}
+
+.app-sub-sidebar.open {
+  display: block;
+}
+
+.sidebar-nav .open > ul:not(.app-sub-sidebar),
+.sidebar-nav .active:not(.collapse) > ul {
+  display: block;
+}
+
+/* 抖动 */
+.sidebar-nav li.open:not(.collapse) > ul {
+  display: block;
+}
+
+.active + ul.app-sub-sidebar {
+  display: block;
+}
+</style><style type="text/css">@media screen and (max-width: 768px) {
+  /* 移动端适配 */
+  .markdown-section {
+    max-width: none;
+    padding: 16px;
+  }
+  /* 改变原来按钮热区大小 */
+  .sidebar-toggle {
+    padding: 0 0 10px 10px;
+  }
+  /* my pin */
+  .sidebar-pin {
+    appearance: none;
+    outline: none;
+    position: fixed;
+    bottom: 0;
+    border: none;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+  }
+}
+</style><style type="text/css">.docsify-pagination-container{display:flex;flex-wrap:wrap;justify-content:space-between;overflow:hidden;margin:5em 0 1em;border-top:1px solid rgba(0,0,0,.07)}.pagination-item{margin-top:2.5em}.pagination-item a,.pagination-item a:hover{text-decoration:none}.pagination-item a{color:currentColor}.pagination-item a:hover .pagination-item-title{text-decoration:underline}.pagination-item:not(:last-child) a .pagination-item-label,.pagination-item:not(:last-child) a .pagination-item-subtitle,.pagination-item:not(:last-child) a .pagination-item-title{opacity:.3;transition:all .2s}.pagination-item:last-child .pagination-item-label,.pagination-item:not(:last-child) a:hover .pagination-item-label{opacity:.6}.pagination-item:not(:last-child) a:hover .pagination-item-title{opacity:1}.pagination-item-label{font-size:.8em}.pagination-item-label>*{line-height:1;vertical-align:middle}.pagination-item-label svg{height:.8em;width:auto;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px}.pagination-item--next{margin-left:auto;text-align:right}.pagination-item--next svg{margin-left:.5em}.pagination-item--previous svg{margin-right:.5em}.pagination-item-title{font-size:1.6em}.pagination-item-subtitle{text-transform:uppercase;opacity:.3}</style><style type="text/css">
+    .alert {
+      border-radius: 4px;
+      margin: 1em 0;
+      padding: 1em;
+      border-left: 4px solid;
+      display: flex;
+      align-items: center;
+      color: var(--alert-text-color, black); /* Use CSS variable for text color */
+    }
+    .alert svg {
+      margin-right: 0.5em;
+    }
+    .alert.note {
+      background-color: #e7f3fe;
+      border-color: #2196f3;
+    }
+    .alert.tip {
+      background-color: #e7fbe7;
+      border-color: #4caf50;
+    }
+    .alert.important {
+      background-color: #f3e7fe;
+      border-color: #9c27b0;
+    }
+    .alert.warning {
+      background-color: #fff8e1;
+      border-color: #ffeb3b;
+    }
+    .alert.caution {
+      background-color: #ffebee;
+      border-color: #f44336;
+    }
+  </style><style>
+.sidebar {
+  padding-top: 0;
+}
+
+.search {
+  margin-bottom: 20px;
+  padding: 6px;
+  border-bottom: 1px solid #eee;
+}
+
+.search .input-wrap {
+  display: flex;
+  align-items: center;
+}
+
+.search .results-panel {
+  display: none;
+}
+
+.search .results-panel.show {
+  display: block;
+}
+
+.search input {
+  outline: none;
+  border: none;
+  width: 100%;
+  padding: 0.6em 7px;
+  font-size: inherit;
+  border: 1px solid transparent;
+}
+
+.search input:focus {
+  box-shadow: 0 0 5px var(--theme-color, #42b983);
+  border: 1px solid var(--theme-color, #42b983);
+}
+
+.search input::-webkit-search-decoration,
+.search input::-webkit-search-cancel-button,
+.search input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.search input::-ms-clear {
+  display: none;
+  height: 0;
+  width: 0;
+}
+
+.search .clear-button {
+  cursor: pointer;
+  width: 36px;
+  text-align: right;
+  display: none;
+}
+
+.search .clear-button.show {
+  display: block;
+}
+
+.search .clear-button svg {
+  transform: scale(.5);
+}
+
+.search h2 {
+  font-size: 17px;
+  margin: 10px 0;
+}
+
+.search a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.search .matching-post {
+  border-bottom: 1px solid #eee;
+}
+
+.search .matching-post:last-child {
+  border-bottom: 0;
+}
+
+.search p {
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.search p.empty {
+  text-align: center;
+}
+
+.app-name.hide, .sidebar-nav.hide {
+  display: none;
+}</style><style type="text/css">
+        .sidebar-toolbar {
+            display: flex;
+            align-items: center;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+        }
+
+        .toolbar-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            color: var(--theme-highlight, #ffcc00);
+            text-decoration: none;
+            margin-right: 10px; /* Space between buttons */
+            transition: opacity 0.3s ease;
+        }
+
+        .toolbar-button svg {
+            width: 24px;
+            height: 24px;
+        }
+    </style></head>
+
+<body data-page="30_production/60_plantation/README.md" class="ready sticky no-scroll">
+    <main><button class="sidebar-toggle" aria-label="Menu"><div class="sidebar-toggle-button"><span></span><span></span><span></span></div></button><aside class="sidebar"><div class="search"><div class="input-wrap">
+      <input type="search" value="" aria-label="Search text" placeholder="🔎">
+      <div class="clear-button">
+        <svg width="26" height="24">
+          <circle cx="12" cy="12" r="11" fill="#ccc"></circle>
+          <path stroke="white" stroke-width="2" d="M8.25,8.25,15.75,15.75"></path>
+          <path stroke="white" stroke-width="2" d="M8.25,15.75,15.75,8.25"></path>
+        </svg>
+      </div>
+    </div>
+    <div class="results-panel"></div>
+    </div><h1 class="app-name"><a class="app-name-link" data-nosearch="" href="https://tprangers.github.io/internature/">INTERNATURE</a></h1><div class="sidebar-nav"><ul><li class="folder level-1"><a href="https://tprangers.github.io/internature/#/10_equipe/" title="Équipe">Équipe</a><ul><li class="file"><a href="https://tprangers.github.io/internature/#/10_equipe/elharrif_kenza/" title="Kenza El Harrif">Kenza El Harrif</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/10_equipe/fafard_isaac/" title="Isaac Fafard">Isaac Fafard</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/10_equipe/grenier_delphine/" title="Delphine Grenier">Delphine Grenier</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/10_equipe/sing_khalytia/" title="Khaly Tia Sing">Khaly Tia Sing</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/10_equipe/yi_sitmonternna/" title="Sitmonternna Yi">Sitmonternna Yi</a></li></ul></li><li class="folder level-1"><a href="https://tprangers.github.io/internature/#/20_intention/" title="Intentions">Intentions</a><ul><li class="file"><a href="https://tprangers.github.io/internature/#/20_intention/10_synopsis/" title="Synopsis">Synopsis</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/20_intention/20_ambiance/" title="Ambiance">Ambiance</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/20_intention/30_scenario/" title="Scénario Final">Scénario Final</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/20_intention/40_scenarimage/" title="Scénarimage">Scénarimage</a></li></ul></li><li class="open folder level-1"><a href="https://tprangers.github.io/internature/#/30_production/" title="Préproduction">Préproduction</a><ul><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/10_gestion_projet/" title="Gestion de projet">Gestion de projet</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/20_budget/" title="Budget Total 500$">Budget Total 500$</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/30_synoptique/" title="Synoptique">Synoptique</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/40_devis/" title="Devis Technique">Devis Technique</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/50_technologies/" title="Technologies ">Technologies </a></li><li class="open file"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/" title="Plantation">Plantation</a><ul class="app-sub-sidebar open"><li class="file"><a class="section-link" href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-studio" title="Plantation de la serre - studio">Plantation de la serre - studio</a></li><li class="file active"><a class="section-link" href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-projetvue-3d" title="Plantation de la serre - projet(vue 3D)">Plantation de la serre - projet(vue 3D)</a></li><li class="file"><a class="section-link" href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-projetvue-de-haut" title="Plantation de la serre - projet(vue de haut)">Plantation de la serre - projet(vue de haut)</a></li><li class="file"><a class="section-link" href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-sphere" title="Plantation de la serre - sphere">Plantation de la serre - sphere</a></li><li class="file"><a class="section-link" href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-connecteurs" title="Plantation de la serre - connecteurs">Plantation de la serre - connecteurs</a></li></ul></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/70_multimedia/" title="Contenu multimédia">Contenu multimédia</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/80_simulation/" title="Simulation">Simulation</a></li><li class="folder level-2"><a href="https://tprangers.github.io/internature/#/30_production/90_etudes/" title="Etudes des cas">Etudes des cas</a><ul><li class="file"><a href="https://tprangers.github.io/internature/#/30_production/90_etudes/connecteur-serre/" title=" Étude de problématique par rapport au connecteur de la serre utilisé pour agrandir la serre verticalement"> Étude de problématique par rapport au connecteur de la serre utilisé pour agrandir la serre verticalement</a></li></ul></li></ul></li><li class="file"><a href="https://tprangers.github.io/internature/#/40_maquette/" title="Maquette">Maquette</a></li><li class="file"><a href="https://tprangers.github.io/internature/#/50_diffusion/" title="Diffusion">Diffusion</a></li></ul></div><div class="sidebar-toolbar"><a href="https://github.com/tprangers/internature" target="_blank" class="toolbar-button repo-toolbar-button" style="display: flex;">
+                <svg width="24" height="24" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.7 7.7 0 012.01-.27c.68 0 1.36.09 2.01.27 1.53-1.03 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+                </svg>
+            </a></div></aside><section class="content"><article class="markdown-section" id="main"><h1 id="plantation"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation" data-id="plantation" class="anchor"><span>Plantation</span></a></h1><h3 id="plantation-de-la-serre-studio"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-studio" data-id="plantation-de-la-serre-studio" class="anchor"><span>Plantation de la serre - studio</span></a></h3><p><figure><img src="./internature_plantation03_files/plantation_studio.jpg" data-origin="plantation_studio.jpg" alt="Plantation_serre_studio" style="display: block; margin: 0px auto;"><figcaption style="text-align: center; font-style: italic;">Plantation_serre_studio</figcaption></figure></p><h3 id="plantation-de-la-serre-projetvue-3d"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-projetvue-3d" data-id="plantation-de-la-serre-projetvue-3d" class="anchor"><span>Plantation de la serre - projet(vue 3D)</span></a></h3><p><figure><img src="./internature_plantation03_files/plantation_serre_3d.jpg" data-origin="plantation_serre_3d.jpg" alt="Plantation serre" style="display: block; margin: 0px auto;"><figcaption style="text-align: center; font-style: italic;">Plantation serre</figcaption></figure></p><h3 id="plantation-de-la-serre-projetvue-de-haut"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-projetvue-de-haut" data-id="plantation-de-la-serre-projetvue-de-haut" class="anchor"><span>Plantation de la serre - projet(vue de haut)</span></a></h3><p><figure><img src="./internature_plantation03_files/plantation_serre_haut.jpg" data-origin="plantation_serre_haut.jpg" alt="Plantation serre haut" style="display: block; margin: 0px auto;"><figcaption style="text-align: center; font-style: italic;">Plantation serre haut</figcaption></figure></p><h3 id="plantation-de-la-serre-sphere"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-sphere" data-id="plantation-de-la-serre-sphere" class="anchor"><span>Plantation de la serre - sphere</span></a></h3><p><figure><img src="./internature_plantation03_files/plantation_sphere.jpg" data-origin="plantation_sphere.jpg" alt="Plantation sphere" style="display: block; margin: 0px auto;"><figcaption style="text-align: center; font-style: italic;">Plantation sphere</figcaption></figure></p><h3 id="plantation-de-la-serre-connecteurs"><a href="https://tprangers.github.io/internature/#/30_production/60_plantation/?id=plantation-de-la-serre-connecteurs" data-id="plantation-de-la-serre-connecteurs" class="anchor"><span>Plantation de la serre - connecteurs</span></a></h3><p><figure><img src="./internature_plantation03_files/plantation_connecteur.jpg" data-origin="plantation_connecteur.jpg" alt="Plantation sphere" style="display: block; margin: 0px auto;"><figcaption style="text-align: center; font-style: italic;">Plantation sphere</figcaption></figure></p><div class="docsify-pagination-container">
+        <div class="pagination-item pagination-item--previous">
+          <a href="https://tprangers.github.io/internature/#/30_production/50_technologies/">
+            <div class="pagination-item-label">
+              <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
+                <polyline fill="none" vector-effect="non-scaling-stroke" points="8,2 2,8 8,14"></polyline>
+              </svg>
+              <span></span>
+            </div>
+            <div class="pagination-item-title">Technologies </div>
+      <div class="pagination-item-subtitle"></div></a>
+        </div>
+      
+        <div class="pagination-item pagination-item--next">
+          <a href="https://tprangers.github.io/internature/#/30_production/70_multimedia/">
+            <div class="pagination-item-label">
+              <span></span>
+              <svg width="10" height="16" viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
+                <polyline fill="none" vector-effect="non-scaling-stroke" points="2,2 8,8 2,14"></polyline>
+              </svg>
+            </div>
+            <div class="pagination-item-title">Contenu multimédia</div>
+      <div class="pagination-item-subtitle"></div></a>
+        </div>
+      </div></article></section></main>
+    <script src="./internature_plantation03_files/decrypt-plugin.js.téléchargement"></script>
+
+    <script>
+        window.$docsify = {
+            name: 'INTERNATURE',
+            repo: 'https://github.com/tprangers/internature',
+            auto2top: true,
+            loadSidebar: true,    // Enable sidebar loading
+            subMaxLevel: 4,       // Adjust the level to include in TOC
+            relativePath: true, // relative path enable
+            search: 'auto', 
+            search: {
+            paths: 'auto',
+            placeholder: '🔎',
+            noData: '📭',
+        },
+            pagination: {
+                previousText: '',
+                nextText: '',
+                crossChapter: true,
+                crossChapterText: true,
+            },
+            copyCode: {
+                buttonText: '📄',
+                errorText: '⚠️',
+                successText: '✅ ',
+            },
+            unhashtagLinkExtensions: ['.pdf', '.html', '.docx' ,'.pd' ],
+            plugins: [
+                window.decryptContentPlugin,
+                // Lightbox plugin
+                function (hook, vm) {
+                    hook.doneEach(() => {
+                        import('https://gllmar.github.io/docsify-lightbox/docsify-lightbox.js').then(module => {
+                            const images = document.querySelectorAll('img');
+                            const lightbox = new module.default();
+                            lightbox.initialize(images);
+                        }).catch(err => console.error('Failed to load Lightbox plugin', err));
+                    });
+                },
+                // WaveSurfer plugin
+                function (hook, vm) {
+                    hook.doneEach(() => {
+                        import('https://gllmar.github.io/docsify-wavesurfer-plugin/docsify-wavesurfer-plugin.js').then(module => {
+                            module.initWaveSurfer();
+                        }).catch(err => console.error('Failed to load WaveSurfer plugin', err));
+                    });
+                }
+            ]
+        };
+    </script>
+    
+
+    <!-- Required -->
+    <script src="./internature_plantation03_files/docsify.min.js.téléchargement"></script>
+
+    <!-- Import Mermaid -->
+    <script type="module">
+        import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+        mermaid.initialize({ 
+            startOnLoad: true,
+            theme: "neutral"
+        });
+        window.mermaid = mermaid;
+    </script>
+    
+    
+    <script src="./internature_plantation03_files/docsify-mermaid.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-copy-code.min.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-sidebar-collapse.min.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-alerts.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-unhashtaglink.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-repo-toolbar.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-videoplayer.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-pagination.min.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-github-tracker.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-img-caption.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/docsify-img-grid.js.téléchargement"></script>
+    <script src="./internature_plantation03_files/search.min.js.téléchargement"></script>
+
+
+
+<div class="progress" style="opacity: 0; width: 0%;"></div><div id="lightbox" class="lightbox">
+      <span class="close" style="display: none;">×</span>
+      <img class="lightbox-image" id="lightbox-img" src="https://tprangers.github.io/internature/">
+      <div class="caption" id="lightbox-caption"></div>
+      <div class="nav" style="display: none;">
+        <div class="prev" id="prev">❮</div>
+        <div class="next" id="next">❯</div>
+      </div>
+      <div class="controls-container">
+        <div class="controls" style="display: none;">
+          <button id="toggle-playback"><span class="overlay">▶️</span></button>
+          <button id="reset-zoom"><span class="overlay">🔍<sup>0</sup></span></button>
+          <button id="show-slideshow-controls"><span class="overlay">⏯️</span></button>
+          <button id="download-image"><span class="overlay">📥</span></button>
+        </div>
+        <button class="menu-button" id="menu-button">☰</button>
+      </div>
+      <div class="nested-controls" id="nested-controls" style="display: none;">
+        <button id="play-nested"><span class="overlay">▶️</span></button>
+        <span id="speed-emoji">➡️</span>
+        <label id="speed-value">1x</label>
+        <input type="range" id="speed-slider" min="-32" max="32" step="0.1" value="1">
+        <button id="reset-nested"><span class="overlay">🔄</span></button>
+      </div>
+    </div><div id="lightbox" class="lightbox">
+      <span class="close" style="display: none;">×</span>
+      <img class="lightbox-image" id="lightbox-img">
+      <div class="caption" id="lightbox-caption"></div>
+      <div class="nav" style="display: none;">
+        <div class="prev" id="prev">❮</div>
+        <div class="next" id="next">❯</div>
+      </div>
+      <div class="controls-container">
+        <div class="controls" style="display: none;">
+          <button id="toggle-playback"><span class="overlay">▶️</span></button>
+          <button id="reset-zoom"><span class="overlay">🔍<sup>0</sup></span></button>
+          <button id="show-slideshow-controls"><span class="overlay">⏯️</span></button>
+          <button id="download-image"><span class="overlay">📥</span></button>
+        </div>
+        <button class="menu-button" id="menu-button">☰</button>
+      </div>
+      <div class="nested-controls" id="nested-controls" style="display: none;">
+        <button id="play-nested"><span class="overlay">▶️</span></button>
+        <span id="speed-emoji">➡️</span>
+        <label id="speed-value">1x</label>
+        <input type="range" id="speed-slider" min="-32" max="32" step="0.1" value="1">
+        <button id="reset-nested"><span class="overlay">🔄</span></button>
+      </div>
+    </div><div id="lightbox" class="lightbox show">
+      <span class="close" style="display: block;">×</span>
+      <img class="lightbox-image" id="lightbox-img" src="./internature_plantation03_files/plantation_serre_haut.jpg" style="transform-origin: 50% 50%; transform: scale(1) translate(0px, 0px);">
+      <div class="caption" id="lightbox-caption" style="display: block;">Plantation serre haut</div>
+      <div class="nav" style="display: flex;">
+        <div class="prev" id="prev">❮</div>
+        <div class="next" id="next">❯</div>
+      </div>
+      <div class="controls-container">
+        <div class="controls" style="display: none;">
+          <button id="toggle-playback"><span class="overlay">▶️</span></button>
+          <button id="reset-zoom"><span class="overlay">🔍<sup>0</sup></span></button>
+          <button id="show-slideshow-controls"><span class="overlay">⏯️</span></button>
+          <button id="download-image"><span class="overlay">📥</span></button>
+        </div>
+        <button class="menu-button" id="menu-button">☰</button>
+      </div>
+      <div class="nested-controls" id="nested-controls" style="display: none;">
+        <button id="play-nested"><span class="overlay">▶️</span></button>
+        <span id="speed-emoji">➡️</span>
+        <label id="speed-value">1x</label>
+        <input type="range" id="speed-slider" min="-32" max="32" step="0.1" value="1">
+        <button id="reset-nested"><span class="overlay">🔄</span></button>
+      </div>
+    </div></body></html>
