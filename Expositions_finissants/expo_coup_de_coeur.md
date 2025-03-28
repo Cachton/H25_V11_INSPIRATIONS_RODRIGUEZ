@@ -1,5 +1,5 @@
 
-<h1>Internature</h1>
+<h1>Mon installation coup de coeur; Internature</h1>
 
 ![photo](img/internature_projections.png)
 Internature est une oeuvre concue par Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
