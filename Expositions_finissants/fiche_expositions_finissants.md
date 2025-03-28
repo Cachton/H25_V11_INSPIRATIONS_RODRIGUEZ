@@ -139,6 +139,7 @@ Arcadia à été réalisé par Dominic Yale, William Beauvais et Anton Nikulin. 
 <br/><br/>
 
 ![photo](img/Arcadia_jeu.png)
+*Photo de Mateo Rodriguez*
 <br/>
 Je pense que ce projet à besoin d'une vraie borne d'arcade physique pour y arriver. Lorsque j'ai vu ce projet installé sur un ordi et que j'ai ensuite appris le but derrière, j'ai été un peu décu.
 <br/>
@@ -163,6 +164,7 @@ La section plantation du Github de l'équipe est très complète.
 <br/>
 
 ![photo](img/prismatica_plantation_espace.jpg)
+*Photo de Mateo Rodriguez*
 <br/>
 
 Je pense que cette installation est encore trop primitive pour que je puisse en donner un opinion. L'équipe derrière passait son temps à essayer de faire fonctionner leur projet.
