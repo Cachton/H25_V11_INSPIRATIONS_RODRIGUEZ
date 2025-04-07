@@ -7,7 +7,7 @@
   <p align="center">
   <img src="img/sphere_cables.jpg">
   <br>
-  Photo tirée du site de l'exposition. (https://tim-montmorency.com/2025/#/)
+  Photo tirée du site de Rafael Lozano-Hemmer. ([https://tim-montmorency.com/2025/#/](https://www.lozano-hemmer.com/))
   </p>
 
   
