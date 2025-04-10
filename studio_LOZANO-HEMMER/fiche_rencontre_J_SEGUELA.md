@@ -18,3 +18,5 @@
   <img src="img/organisation_montage.png">
   <br>
   </p>
+
+  Par la suite, l'oeuvre "Shadow Tuner" à été réalisée sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. Jade nous a présenté les difficultées rencontrées comme le vent, le sable et l'incapacité de traviller de jour puisque l'oeuvre était une projection sur un grand globe gonflable. Une version minature à été concue pour être plus facilement exposable. L'objectif de l'oeuvre
