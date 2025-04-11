@@ -8,7 +8,7 @@
   <p align="center">
   <img src="img/sphere_cables.jpg">
   <br>
-  Photo tirée du site de Rafael Lozano-Hemmer. (https://www.lozano-hemmer.com/)
+  "Sphere Packing: Bach", photo tirée du site de Rafael Lozano-Hemmer.
   </p>
 
   
@@ -22,3 +22,8 @@
   Par la suite, l'oeuvre "Shadow Tuner" à été réalisée sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. L'objectif de l'oeuvre est de prendre l'angle d'une personne par rapport à la sphere et diffuser une station de radio aux haut-parleurs de la salle. Cette sphere au milieu de la salle est mappé à la carte du monde. Jade nous a présenté les difficultées rencontrées comme le vent, le sable et l'incapacité de traviller de jour puisque l'oeuvre était une projection sur un grand globe gonflable. Une version minature à été concue pour être plus facilement exposable. 
 
   Pour finir, l'atelier Lozano-hemmer est un studio d'environs 40 employés soit le plus grand à Montreal. À sa tête, Rafael Lozano-Hemmer continue de développer des nouvelles oeuvres tout les ans depuis avec son équipe depuis le début des années 90'.
+  <br/>
+  <br/>
+<h3>Références</h3>
+   <br/>
+Site de Rafael Lozano-Hemmer. (https://www.lozano-hemmer.com/)
