@@ -1,8 +1,10 @@
 <h1>Conférence Studio Lozano Hemmer</h1>
-<h3>présenté par Jade Séguela</h3>
+<h2>présenté par Jade Séguela</h2>
 
   Le 25 mars 2025, nous avons eu la chance d'assister à une présentation présentée par Jade Séguela, la registraire du studio de Rafael Lozano-Hemmer. Elle nous a présenté deux oeuvres captivantes."Sphere Packing: Bach" et "Shadow Tuner"
-  
+
+
+  <h3>Sphere Packing: Bach</h3>
   Pour commencer, "Sphere Packing: Bach", est une oeuvre réalisée avec idée d'inclure toutes les compositions de Johann Sebastian Bach dans une structure que les visiteurs peuvent entrer. Cette expérience devient rapidement une cacophonie de haut niveau, ce qui rajoute à l'expérience un charme très brut et un peu viloent. Les onze kilomètres de cables qui connectent les hauts-parleurs aux ordinateurs viennent aussi ajouter une ambiance pesante presque épeurante à l'oeuvre.
   
   <p align="center">
@@ -19,6 +21,8 @@
   <br>
     Photos de la conférence prises par Mateo Rodriguez
   </p>
+
+  <h3>Shadow Tuner</h3>
 
   Par la suite, l'oeuvre "Shadow Tuner" à été réalisée sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. L'objectif de l'oeuvre est de prendre l'angle d'une personne par rapport à la sphere et diffuser une station de radio aux haut-parleurs de la salle. Cette sphere au milieu de la salle est mappé à la carte du monde. 
 
