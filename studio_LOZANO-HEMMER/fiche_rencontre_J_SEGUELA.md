@@ -34,6 +34,7 @@
   
   Jade nous a présenté les difficultées rencontrées comme le vent, le sable et l'incapacité de traviller de jour puisque l'oeuvre était une projection sur un grand globe gonflable. Une version minature à été concue pour être plus facilement exposable. 
 
+<h3>L'atelier Lozano-hemmer</h3>
   Pour finir, l'atelier Lozano-hemmer est un studio d'environs 40 employés soit le plus grand à Montreal. À sa tête, Rafael Lozano-Hemmer continue de développer des nouvelles oeuvres tout les ans depuis avec son équipe depuis le début des années 90'.
   <br/>
   <br/>
