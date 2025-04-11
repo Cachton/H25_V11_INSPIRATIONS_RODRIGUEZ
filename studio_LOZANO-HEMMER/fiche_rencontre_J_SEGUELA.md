@@ -24,7 +24,7 @@
 
   <h3>Shadow Tuner</h3>
 
-  Par la suite, l'oeuvre "Shadow Tuner" à été réalisée sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. L'objectif de l'oeuvre est de prendre l'angle d'une personne par rapport à la sphere et diffuser une station de radio aux haut-parleurs de la salle. Cette sphere au milieu de la salle est mappé à la carte du monde. 
+  Par la suite, l'oeuvre "Shadow Tuner" à été réalisée en 2023 sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. L'objectif de l'oeuvre est de prendre l'angle d'une personne par rapport à la sphere et diffuser une station de radio aux haut-parleurs de la salle. Cette sphere au milieu de la salle est mappé à la carte du monde. 
 
   <p align="center">
   <img src="img/shadow_tuner_montreal_2025.jpg">
