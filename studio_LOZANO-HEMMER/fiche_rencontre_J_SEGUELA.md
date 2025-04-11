@@ -25,7 +25,7 @@
   <p align="center">
   <img src="img/shadow_tuner_montreal_2025.jpg">
   <br>
-    Photos de la conférence prises par Mateo Rodriguez
+    "Shadow Tuner" photos par Antimodular Studio.
   </p>
   
   Jade nous a présenté les difficultées rencontrées comme le vent, le sable et l'incapacité de traviller de jour puisque l'oeuvre était une projection sur un grand globe gonflable. Une version minature à été concue pour être plus facilement exposable. 
