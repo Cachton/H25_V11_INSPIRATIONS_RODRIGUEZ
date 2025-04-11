@@ -17,6 +17,7 @@
   <p align="center">
   <img src="img/organisation_montage.png">
   <br>
+    Photos de la conférence prises par Mateo Rodriguez
   </p>
 
   Par la suite, l'oeuvre "Shadow Tuner" à été réalisée sur une petite île artificielle à Abu Dhabi dans les Émirats arabes   unis. L'objectif de l'oeuvre est de prendre l'angle d'une personne par rapport à la sphere et diffuser une station de radio aux haut-parleurs de la salle. Cette sphere au milieu de la salle est mappé à la carte du monde. Jade nous a présenté les difficultées rencontrées comme le vent, le sable et l'incapacité de traviller de jour puisque l'oeuvre était une projection sur un grand globe gonflable. Une version minature à été concue pour être plus facilement exposable. 
