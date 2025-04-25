@@ -25,5 +25,5 @@ L’intégration de l’intelligence artificielle dans l’art est un sujet plut
 
 <h3>SOURCES</h3>
 Photos prises par Mateo Rodriguez <br>
-Site de Sabrina Ratté
+Site de Sabrina Ratté: https://sabrinaratte.com/
 
