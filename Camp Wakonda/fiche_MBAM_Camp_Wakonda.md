@@ -20,7 +20,7 @@ Au fond d’une grande salle d’exposition du musée des beaux-arts de Montréa
 J’ai vraiment aimé la disposition d’objets communs pour recréer cette scène d’accident. Ces objets donnent l’impression de ne pas avoir été choisis au hasard, quelqu’un proche de l’artiste en comprend probablement la signification. Je dois dire que j’ai eu du mal à lier la pièce centrale de l’oeuvre avec les vidéos projetées dans les diverses structures de maison.
 <br><br>
 
-![photo](img/raspberry03.jpg) | ![photo](img/piedestal01.jpg) 
+![photo](img/projection01.jpg) | ![photo](img/wakonda01.jpg) 
 :-------------------------:|:-------------------------:
 
 ------------
