@@ -1,6 +1,6 @@
 <h1>Camp Wakonda</h1>
 
-![photo](img/credits_wakonda.jpg) | ![photo](img/.jpg) 
+![photo](img/credits_wakonda.jpg) | ![photo](img/wakonda02.jpg) 
 :-------------------------:|:-------------------------:
 
 Le 4 avril 2025, j’ai pu observer une œuvre faite par Graeme Patterson; Camp Wakonda. 
