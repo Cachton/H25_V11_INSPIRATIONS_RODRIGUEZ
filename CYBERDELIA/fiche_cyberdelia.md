@@ -1,7 +1,7 @@
 <h1>Oeuvre Cyberdelia </h1>
 
 ![photo](img/credits_cyberdelia.jpg)
-J’ai eu la chance d’assister à une exposition réalisée par l’artiste Sabrina Ratté intitulée Cyberdelia. Cyberdelia est une œuvre conçue par Sabrina Ratté lors d'une résidence au centre Sporobole pour explorer les potentialités créatives de l'intelligence artificielle."
+J’ai eu la chance d’assister à une exposition réalisée par l’artiste Sabrina Ratté intitulée Cyberdelia. Cyberdelia est une œuvre conçue par Sabrina Ratté lors d'une résidence au centre Sporobole pour explorer les potentialités créatives de l'intelligence artificielle. 
 
 ![photo](img/cyberdelia03.jpg) | ![photo](img/cyberdelia02.jpg) 
 :-------------------------:|:-------------------------:
